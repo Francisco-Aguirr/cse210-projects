@@ -2,11 +2,12 @@ using System;
 
 public class Fraction
 {
-    private int _top;
-    private int _bottom;
+    private int _top;        
+    private int _bottom;    
+                            
 
 //Constructor that has no parameters that initializes the number to 1/1.
-    public Fraction()
+    public Fraction()                          
     {
         _top = 1;
         _bottom = 1;
