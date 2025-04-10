@@ -1,0 +1,3 @@
+10
+SimpleGoal:exercize,make one hour of exercize,10,True
+EternalGoal:pray,pray daily,25
